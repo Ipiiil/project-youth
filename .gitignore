@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+*/node_modules
+
+# Build
+dist/
+build/
+*.log
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Unity
+unity-game/Library/
+unity-game/Temp/
+unity-game/obj/
